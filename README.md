@@ -1,0 +1,2 @@
+- HTML & CSS, JavaScript, Lua, Python,..
+- 3rd degree retard
