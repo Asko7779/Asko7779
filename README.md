@@ -1,2 +1,2 @@
-- HTML & CSS, JavaScript, Lua, Python,..
-- 3rd degree retard
+- HTML & CSS, JavaScript, Java, C#, C++, PHP, Flutter, Python, Lua, etc... 
+- Full-Stack Develiper
