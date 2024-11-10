@@ -1,2 +1,4 @@
-- HTML & CSS, JavaScript, Java, C#, C++, PHP, Flutter, Python, Lua, React, etc
-- Full-Stack Developer
+- Software & Kernel Developer
+- Offensive & Defensive Security
+- AskoOS and more contributions
+- C/C++,C#,Python,JS,Java,etc.. 
