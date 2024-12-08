@@ -1,4 +1,5 @@
-- Software Engineering and programming
+- Software Engineering
 - Defensive & Offensive security
 - System Development (OS, kernels, embedded systems,...)
+- Digital forensics and cybersecurity
 - C,C++,C#,Rust,Python,Assembly,Java,PHP and more
