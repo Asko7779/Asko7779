@@ -1,4 +1,4 @@
 - Defensive & Offensive security
 - System & Software Development (OS, kernels, embedded systems,...)
-- Digital forensics and cybersecurity
+- Cybersecurity
 - C,C++,C#,Rust,Python,Assembly,Java,PHP and more
