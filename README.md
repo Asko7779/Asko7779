@@ -15,8 +15,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Asko7779&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 📌 Most Contributed Repos
-[![Most Contributed Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Asko7779&layout=compact)](https://github.com/Asko7779)
-
-
