@@ -1,5 +1,7 @@
 # 💫 About Me:
-- Offensive & Defensive Security<br>- System and Software Development (OS, Embedded Systems, Software,...)<br>- Cybersecurity
+- Offensive & Defensive Security<br>
+- System and Software Development (OS, Embedded Systems, Software,...)<br>
+- Cybersecurity
 
 
 # 💻 Tech Stack:
