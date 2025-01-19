@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Offensive & Defensive Security<br>
-- System and Software Development (OS, Embedded Systems, Software,...)<br>
+- System and Software Development (OS, Embedded Systems, Softwares,...)<br>
 - Cybersecurity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Asko7779&color=blue)
