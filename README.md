@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Offensive & Defensive Security <br>
+- Offe<br>
 - System and Software Development (OS, Embedded Systems, Softwares,...)<br>
 - Cybersecurity
 
