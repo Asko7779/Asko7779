@@ -1,5 +1,5 @@
 
-- Security research<br>
+- Security researcher<br>
 - Low-level system development<br>
 - Cybersec
 
